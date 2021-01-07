@@ -6,7 +6,6 @@ require (
 	github.com/go-gl/glfw/v3.3/glfw v0.0.0-20200707082815-5321531c36a2
 	github.com/gofrs/flock v0.8.0
 	github.com/hajimehoshi/bitmapfont/v2 v2.1.2
-	github.com/hajimehoshi/ebiten v1.12.6
 	github.com/hajimehoshi/file2byteslice v0.0.0-20200812174855-0e5e8a80490e
 	github.com/hajimehoshi/go-mp3 v0.3.1
 	github.com/hajimehoshi/oto v0.7.1-0.20210105125505-b2e5c7d0272c
